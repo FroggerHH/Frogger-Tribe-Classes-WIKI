@@ -1,9 +1,9 @@
-# DungeonClases-WIKI
+# Frogger-Tribe-Classes-WIKI
 
 Welcome to the DungeonClases wiki!
 
-* [О DungeonClases](https://github.com/FroggerHH/DungeonClases-WIKI/wiki) 
-* [Установка](#install) 
-* [Основной конфиг файл wiki на GitHub](#limitations) 
-* [Настройки класса GitHub](#setup) 
-* [Настройки мобов](#activity-wiki) 
+* [О DungeonClases](https://github.com/FroggerHH/DungeonClases-WIKI/blob/main/About%20Frogger-Tribe-Classes.md) 
+* [Установка]() 
+* [Основной конфиг файл]() 
+* [Настройки классов]() 
+* [Настройки мобов]() 
