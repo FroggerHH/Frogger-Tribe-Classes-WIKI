@@ -1,16 +1,8 @@
-You must have BepInEx installed correctly! I can not stress this enough.
+#### У вас должен быть правильно установлен BepInEx!
 
-Windows (Steam)
-Locate your game folder manually or start Steam client and :
-Right click the Valheim game in your steam library
-"Go to Manage" -> "Browse local files"
-Steam should open your game folder
-Extract the contents of the archive. Put the DLL into BepInEx\plugins the other files are needed for the thunderstore upload and can be ignored.
+* ### Windows (Steam) 
+  Найдите папку с вашей игрой вручную или запустите клиент Steam и: Щелкните правой кнопкой мыши игру Valheim в вашей библиотеке steam "Перейти к управлению" -> "Просмотреть локальные файлы" Steam должен открыть папку с вашей игрой и извлечь содержимое архива. Поместите DLL в BepInEx\plugins, остальные файлы необходимы для загрузки в thunderstore и могут быть проигнорированы.
 
-Server
-Must be installed on both the client and the server for syncing to work properly.
-
-Locate your main folder manually and :
-Extract the contents of the archive into BepInEx\plugins.
-Launch your game at least once to generate the config file needed if you haven't already done so.
-Reboot your server. All clients will now sync to the server's config file even if theirs differs. Config Manager mod changes will only change the client config, not what the server is enforcing.
+* ### Сервер
+  Мод должен быть установлен как на клиенте, так и на сервере для правильной работы синхронизации.
+Найдите свою основную папку вручную и : Извлеките содержимое архива в BepInEx\plugins. Запустите свою игру хотя бы один раз, чтобы сгенерировать необходимый конфигурационный файл, если вы еще этого не сделали. Перезагрузите свой сервер. Все клиенты теперь будут синхронизироваться с конфигурационным файлом сервера, даже если их конфигурационный файл отличается. Изменения мода Config Manager изменят только конфигурацию клиента, а не то, что сервер применяет.
