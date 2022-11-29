@@ -1,6 +1,6 @@
 ###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI)
 
-
+## Поддерживаемые моды:
 * [Groups](https://valheim.thunderstore.io/package/Smoothbrain/Groups/)
 * [DualWield](https://valheim.thunderstore.io/package/Smoothbrain/DualWield/)
 
