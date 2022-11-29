@@ -1,3 +1,5 @@
+# Скриншоты
+
 ###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI)
 
 ![1](images/image(1).png)
