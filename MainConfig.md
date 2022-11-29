@@ -2,4 +2,4 @@
 
 
 * [⚙️Настройки классов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/LevelTree.md) 
-* [⚙️Настройки мобов]() 
+* [⚙️Настройки мобов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md) 
