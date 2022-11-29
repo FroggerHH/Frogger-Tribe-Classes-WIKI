@@ -6,4 +6,3 @@
 ![5](images/image(5).png)
 ![6](images/image(6).png)
 ![7](images/image(7).png)
-![8](images/image(8).png)
