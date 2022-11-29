@@ -1,4 +1,5 @@
 # Frogger-Tribe-Classes-WIKI
+![Discord](https://img.shields.io/discord/981889916080381992?label=Discord&style=plastic)
 
 Добро пожаловать на TribeClasses вики!
 
