@@ -29,13 +29,13 @@
 
 
 ## Хранитель
-![Хранитель](images\guardian.png)
+![Хранитель](images/guardian.png)
 
 ## Берсерк
-![Берсерк](images\berserker.png)
+![Берсерк](images/berserker.png)
 
 ## Рейнджер
-![Рейнджер](images\ranger.png)
+![Рейнджер](images/ranger.png)
 
 ## Друид
-![Друид](images\druid.png)
+![Друид](images/druid.png)
