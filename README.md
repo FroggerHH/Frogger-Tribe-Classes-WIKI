@@ -3,13 +3,14 @@
 
 ![Tribe Classes](images/Tribe_Classes.png)
 
-Добро пожаловать на TribeClasses вики!
+Добро пожаловать на TribeClasses вики! <br>
+[Присоединяйтесь к дискорд серверу!](https://discord.gg/K7PXvZ8rnN)
 
 ## Supported languages:
-  * [Русский](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI)
-  * [English]()
-  * [Español]()
-  * [Čeština]()
+  * Русский
+  * English
+  * Español
+  * Čeština
 
 
 ### Для игроков 
