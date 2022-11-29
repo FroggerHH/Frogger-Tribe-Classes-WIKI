@@ -10,6 +10,6 @@ Welcome to the Frogger-Tribe-Classes wiki!
 ### Для администраторров серверов
 * [🔧Совместимость с другими модами](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Compatibility.md)
 * [📟Консольные команды](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/TerminalCommands.md)
-* [📒Основной конфиг файл]() 
+* [📒Основной конфиг файл](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MainConfig.md) 
 * [⚙️Настройки классов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/LevelTree.md) 
 * [⚙️Настройки мобов]() 
