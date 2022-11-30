@@ -44,4 +44,4 @@ blocks Список элементов ClassInfo с информацией о к
 
 
 * [📒Основной конфиг файл](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MainConfig.md#основной-конфиг-файл) 
-* [⚙️Настройки мобов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md#нрастройки-мобов) 
+* [⚙️Настройки мобов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md#настройки-мобов) 
