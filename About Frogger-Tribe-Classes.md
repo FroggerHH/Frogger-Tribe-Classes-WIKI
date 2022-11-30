@@ -1,6 +1,6 @@
 # О моде
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI)
+###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
 
 Добро пожаловать на TribeClasses вики!
 
