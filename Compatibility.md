@@ -10,4 +10,4 @@
 При активации ауры, она также применяется и на членов группы.
 
 ### DualWield
-В [конфигурации класса](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/LevelTree.md) вы може сказать, какие виды двойного оружия этот класс не может использовать.
+В [конфигурации класса](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/LevelTree.md#настройки-классов) вы може сказать, какие виды двойного оружия этот класс не может использовать.
