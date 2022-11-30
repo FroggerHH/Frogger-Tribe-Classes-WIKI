@@ -1,6 +1,6 @@
 # Консольные команды
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI)
+###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
 
 ## Доступные консольные команды:
 * ```froggertribeclasses level [value] [name] - устанавливает игроку по имени name уровень value```
