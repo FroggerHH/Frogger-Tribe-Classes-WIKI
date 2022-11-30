@@ -1,6 +1,6 @@
 # Совместимость с другими модами
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI)
+###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
 
 ## Поддерживаемые моды:
 * [Groups](https://valheim.thunderstore.io/package/Smoothbrain/Groups/)
