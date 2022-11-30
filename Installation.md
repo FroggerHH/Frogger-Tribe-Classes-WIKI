@@ -1,6 +1,6 @@
 # Установка
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI)
+###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
 #### У вас должен быть правильно установлен BepInEx!
 
 * ### Windows (Steam) 
