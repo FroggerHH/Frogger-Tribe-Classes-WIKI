@@ -6,6 +6,7 @@
 Добро пожаловать на TribeClasses вики! <br>
 [Присоединяйтесь к дискорд серверу!](https://discord.gg/K7PXvZ8rnN)
 
+While the entire wiki is in Russian. When I'm done about 80% percent, I'll translate it into English.
 ## Supported languages:
   * Русский
   * English
