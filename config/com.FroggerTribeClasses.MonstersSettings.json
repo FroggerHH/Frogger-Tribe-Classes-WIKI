@@ -1,0 +1,156 @@
+{
+   "blocks" : [
+      {
+         "Name" : "Boar",
+         "exp" : 15
+      },
+      {
+         "Name" : "Deer",
+         "exp" : 20
+      },
+      {
+         "Name" : "Neck",
+         "exp" : 15
+      },
+      {
+         "Name" : "Greyling",
+         "exp" : 20
+      },
+      {
+         "Name" : "Greydwarf",
+         "exp" : 50
+      },
+      {
+         "Name" : "Greydwarf_Elite",
+         "exp" : 100
+      },
+      {
+         "Name" : "Greydwarf_Shaman",
+         "exp" : 80
+      },
+      {
+         "Name" : "Skeleton",
+         "exp" : 60
+      },
+      {
+         "Name" : "Skeleton_Poison",
+         "exp" : 100
+      },
+      {
+         "Name" : "Skeleton_NoArcher",
+         "exp" : 60
+      },
+      {
+         "Name" : "Ghost",
+         "exp" : 80
+      },
+      {
+         "Name" : "Troll",
+         "exp" : 300
+      },
+      {
+         "Name" : "Blob",
+         "exp" : 120
+      },
+      {
+         "Name" : "Leech",
+         "exp" : 120
+      },
+      {
+         "Name" : "Wraith",
+         "exp" : 200
+      },
+      {
+         "Name" : "Draugr",
+         "exp" : 100
+      },
+      {
+         "Name" : "Draugr_Ranged",
+         "exp" : 180
+      },
+      {
+         "Name" : "Surtling",
+         "exp" : 100
+      },
+      {
+         "Name" : "Draugr_Elite",
+         "exp" : 300
+      },
+      {
+         "Name" : "BlobElite",
+         "exp" : 180
+      },
+      {
+         "Name" : "Abomination",
+         "exp" : 400
+      },
+      {
+         "Name" : "Wolf",
+         "exp" : 250
+      },
+      {
+         "Name" : "Fenring",
+         "exp" : 300
+      },
+      {
+         "Name" : "Hatchling",
+         "exp" : 250
+      },
+      {
+         "Name" : "StoneGolem",
+         "exp" : 450
+      },
+      {
+         "Name" : "Goblin",
+         "exp" : 350
+      },
+      {
+         "Name" : "GoblinArcher",
+         "exp" : 380
+      },
+      {
+         "Name" : "Deathsquito",
+         "exp" : 200
+      },
+      {
+         "Name" : "Lox",
+         "exp" : 500
+      },
+      {
+         "Name" : "GoblinBrute",
+         "exp" : 450
+      },
+      {
+         "Name" : "GoblinShaman",
+         "exp" : 400
+      },
+      {
+         "Name" : "Eikthyr",
+         "exp" : 150
+      },
+      {
+         "Name" : "gd_king",
+         "exp" : 300
+      },
+      {
+         "Name" : "Serpent",
+         "exp" : 400
+      },
+      {
+         "Name" : "Bonemass",
+         "exp" : 700
+      },
+      {
+         "Name" : "Dragon",
+         "exp" : 1000
+      },
+      {
+         "Name" : "GoblinKing",
+         "exp" : 1500
+      },
+      {
+         "Name" : "TrainingDummy",
+         "exp" : 313
+      }
+   ]
+}
