@@ -18,6 +18,7 @@ While the entire wiki is in Russian. When I'm done about 80% percent, I'll trans
 * [📃О моде](https://github.com/FroggerHH/DungeonClases-WIKI/blob/main/About%20Frogger-Tribe-Classes.md#о-моде) 
 * [📥Установка](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Installation.md#установка) 
 * [💡Особенности](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Features.md#особенности)
+* [🤝Туториал](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Tutorial.md#туториал)
 * [📰Скриншоты](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Screenshots.md#скриншоты)
 
 ### Для администраторров серверов
