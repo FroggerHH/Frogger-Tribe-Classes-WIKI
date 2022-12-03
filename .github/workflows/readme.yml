@@ -17,4 +17,4 @@ jobs:
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
           LANG: en
       - name: Adding README - English
-        uses: english/translate-readmeMain
+        uses: english/translate-readmeMain@main
