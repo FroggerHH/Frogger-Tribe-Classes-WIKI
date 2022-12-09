@@ -1,8 +1,7 @@
-# Туториал
+# Tutorial
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
+###  [🏠To the main page](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
 
-### Всё описанное здесь поэтапно расскажет вам хугин. Не так детально, но более класочно
 
 <details>
   <summary>Постройка Алтаря</summary>
@@ -43,12 +42,12 @@
   После этого вам откроется Руна Друида.
 </details>
 
-## Прокачка
-Для увеличения уровня, вам надо убивать монстров. С разных монстров вы получите разное количество опыта. Чем сильнее монстр, тем больше опыта. Уровень монстра умножает опыт, получаемый с него.  <br>
-Посмотреть, сколько даётся опыта за монстров можно [тут](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md#настройки-мобов).<br>
-При игре на сервере, лучше спросите кого-то, т.к. админ мог всё перебалансировать.
-### Разблокировка ауры класса
-Когда вы достигнете (по умолчанию 50-го) определенного уровня, вам разблокируется активная способность - аура. <br>
-У каждого класса своя аура. Они отличаются цветом и эффектами. <br>
-Для её использования необходимо создать Рог Древних. Взяв его в руки, нажмите ЛКМ. <br>
-При активации, аура также распространяется на ближайших членов группы.
+## Leveling up
+To increase the level, you need to kill monsters. You will get different amounts of experience from different monsters. The stronger the monster, the more experience. The monster's level multiplies the experience gained from it.  <br>
+To see how much experience is given for monsters, you can [here](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md#mob-settings).<br>
+When playing on the server, it's better to ask someone, because the admin could rebalance everything.
+### Unlocking Class Aura
+When you reach (by default, the 50th) a certain level, you will unlock an active ability - aura. <br>
+Each class has its own aura. They differ in color and effects. <br>
+To use it, you need to create a Horn of the Ancients. Taking it in hand, press LMB. <br>
+When activated, the aura also spreads to the closest members of the group.
