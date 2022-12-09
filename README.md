@@ -3,10 +3,10 @@
 
 ![Tribe Classes](images/Tribe_Classes.png)
 
-Добро пожаловать на TribeClasses вики! <br>
-[Присоединяйтесь к дискорд серверу!](https://discord.gg/K7PXvZ8rnN)
+Welcome to the TribeClasses wiki! <br>
+[Join the discord server!](https://discord.gg/K7PXvZ8rnN)
 
-While the entire wiki is in Russian. When I'm done about 80% percent, I'll translate it into English.
+
 ## Supported languages:
   * Русский
   * English
@@ -14,16 +14,16 @@ While the entire wiki is in Russian. When I'm done about 80% percent, I'll trans
   * Čeština
 
 
-### Для игроков 
-* [📃О моде](https://github.com/FroggerHH/DungeonClases-WIKI/blob/main/About%20Frogger-Tribe-Classes.md#о-моде) 
-* [📥Установка](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Installation.md#установка) 
-* [💡Особенности](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Features.md#особенности)
-* [🤝Туториал](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Tutorial.md#туториал)
-* [📰Скриншоты](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Screenshots.md#скриншоты)
+### For players 
+* [📃About the mod](https://github.com/FroggerHH/DungeonClases-WIKI/blob/main/About%20Frogger-Tribe-Classes.md#about-the-mod) 
+* [📥Installation](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Installation.md#installation) 
+* [💡Features](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Features.md#features)
+* [🤝Tutorial](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Tutorial.md#tutorial)
+* [📰Screenshots](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Screenshots.md#screenshots)
 
-### Для администраторров серверов
-* [🔧Совместимость с другими модами](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Compatibility.md#совместимость-с-другими-модами)
-* [📟Консольные команды](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/TerminalCommands.md#консольные-команды)
-* [📒Основной конфиг файл](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MainConfig.md#основной-конфиг-файл) 
-* [⚙️Настройки классов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/LevelTree.md#настройки-классов) 
-* [⚙️Настройки мобов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md#настройки-мобов) 
+### For server administrators
+* [🔧Compatibility with other mods](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Compatibility.md#compatibility-with-other-mods)
+* [📟Console commands](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/TerminalCommands.md#console-commands)
+* [📒Main config file](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MainConfig.md#main-config-file) 
+* [⚙️Class Settings](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/LevelTree.md#class-settings) 
+* [⚙️Mob Settings](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md#mob-settings) 
