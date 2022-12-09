@@ -1,11 +1,11 @@
 # Консольные команды
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
+###  [🏠To the main page](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
 
-## Доступные консольные команды:
-* ```froggertribeclasses level [value] [name] - устанавливает игроку по имени name уровень value```
-* ```froggertribeclasses reset_class [name] - сбрасывает класс игрока по имени name```
-* ```froggertribeclasses add_exp [value] [name] - добавляет value опыта игроку по имени name```
-* ```froggertribeclasses reset_super [name] - выключает ауру и сбрасывает её кулдаун для игрока по имени name```
+## Available console commands:
+* ```froggertribeclasses level [value] [name] - sets the value level to the player named name```
+* ```froggertribeclasses reset_class [name] - resets the player's class by name```
+* ```froggertribeclasses add_exp [value] [name] - adds experience value to a player named name```
+* ```froggertribeclasses reset_super [name] - turns off the aura and resets its cooldown for the player named name```
 
-### Если в имени есть пробелы, вводя комманду заменяйте их на _
+### If there are spaces in the name, when entering the command, replace them with _
