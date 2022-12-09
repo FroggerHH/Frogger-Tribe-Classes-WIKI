@@ -1,17 +1,13 @@
-# Установка
+# Installation
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
-#### У вас должен быть правильно установлен BepInEx!
+###  [🏠To the main page](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
+#### You must have BepInEx installed correctly!
 
 * ### Windows (Steam) 
-  Найдите папку с вашей игрой вручную или запустите клиент Steam и: Щелкните правой кнопкой мыши игру Valheim в вашей библиотеке steam "Перейти к управлению" -> "Просмотреть локальные файлы" Steam должен открыть папку с вашей игрой и извлечь содержимое архива. Поместите DLL в BepInEx\plugins, остальные файлы необходимы для загрузки в thunderstore и могут быть проигнорированы.
+  Find the folder with your game manually or launch the Steam client and: Right-click the Valheim game in your steam library "Go to Management" -> "View local files" Steam should open the folder with your game and extract the contents of the archive. Put the DLL in BepInEx\plugins, the rest of the files are needed to upload to thunderstore and can be ignored.
 
-* ### Сервер
-  Мод должен быть установлен как на клиенте, так и на сервере для правильной работы синхронизации.
+* ### Server
+  The mod must be installed on both the client and the server for synchronization to work correctly.
   
-Извлеките содержимое архива в BepInEx\plugins. 
-Запустите свою игру хотя бы один раз, чтобы сгенерировать необходимый конфигурационный файл, если вы еще этого не сделали. Перезагрузите свой сервер. Все клиенты теперь будут синхронизироваться с конфигурационным файлом сервера, даже если их конфигурационный файл отличается.
-
-* [📒Основной конфиг файл](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MainConfig.md#основной-конфиг-файл)
-* [⚙️Настройки классов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/LevelTree.md#настройки-классов)
-* [⚙️Настройки мобов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md#настройки-мобов)
+Extract the contents of the archive in BepInEx\plugins. 
+Run your game at least once to generate the necessary configuration file, if you haven't already done so. Restart your server. All clients will now sync with the server's configuration file, even if their configuration file is different.
