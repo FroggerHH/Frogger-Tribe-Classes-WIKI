@@ -1,20 +1,20 @@
 # Основной конфиг файл
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
+###  [🏠To the main page](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
 
 ## ```com.FroggerTribeClasses.cfg``` 
-➡[Создаваемая конфигурация по умолчанию](config/com.FroggerTribeClasses.cfg)
+➡[The default configuration being created](config/com.FroggerTribeClasses.cfg)
 
-* DONT TOUCH_1 - Просто забудне об этом и не редактируйте.
-* DONT TOUCH_2 - Просто забудне об этом и не редактируйте.
-* Max Level - Максимальный уровень, больше игрок не будет получать опыт.
-* First Level Exp - Кол-во опыты, необходимое для получения первого уровня. Достаточно важная настройка, т.к. относительно него высчитывается кол-во опыта на все последующие уровни.
-* Heal On Level Up - Будет ли игрок ПОЛНОСТЬЮ востанавливать своё здоровье и выносливость при получении нового уровня.
-* Group Exp Factor - Сколько опыта (в %) будут получать члены группы, при получении одним из них опыта.
-* Open Menu Key - Кнопка для открытия меню класса.
-* Close Menu Key - Кнопка для закрытия меню класса.
+* DONT TOUCH_1 - Just forget about it and don't edit it.
+* DONT TOUCH_2 - Just forget about it and don't edit it.
+* Max Level - The maximum level, the player will no longer gain experience.
+* First Level Exp - Кthe number of experiments required to obtain the first level. Quite an important setting, because the number of experience for all subsequent levels is calculated relative to it.
+* Heal On Level Up - Will the player FULLY recover their health and stamina when getting a new level.
+* Group Exp Factor - How much experience (in %) will the group members receive when one of them gets experience.
+* Open Menu Key - A button to open the class menu.
+* Close Menu Key - A button to close the class menu.
 * Далее идут настройки рун, рога и алтаря.
 
 
-* [⚙️Настройки классов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/LevelTree.md#настройки-классов) 
-* [⚙️Настройки мобов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md#настройки-мобов) 
+* [⚙️Class Settings](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/LevelTree.md#class-settings) 
+* [⚙️Mob Settings](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md#mob-settings) 
