@@ -1,13 +1,13 @@
-# Совместимость с другими модами
+# Compatible with other mods
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
+###  [🏠To the main page](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
 
-## Поддерживаемые моды:
+## Supported Mods:
 * [Groups](https://valheim.thunderstore.io/package/Smoothbrain/Groups/)
 * [DualWield](https://valheim.thunderstore.io/package/Smoothbrain/DualWield/)
 
 ### Groups
-При активации ауры, она также применяется и на членов группы.
+When the aura is activated, it is also applied to the members of the group.
 
 ### DualWield
-В [конфигурации класса](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/LevelTree.md#настройки-классов) вы може сказать, какие виды двойного оружия этот класс не может использовать.
+In the [class configuration](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/LevelTree.md#нclass-settings) you can tell which types of dual weapons this class cannot use.
