@@ -1,43 +1,43 @@
-# Особенности
+# Features
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
-
-
-Мод добавляет 6 классов увеличивающих определённые зарактеристики игрока и пользовательский интерфейс класса.
-
-Чем выше уровень, тем выше добавляемые характеристики.
-
-### Виды добавляемых характеристик:
-* Здоровье
-* Регенерация
-* Восстановление выносливости
-* Броня
-* Защита (броня в процентах)
-* Скорость перемещения
-* Вампиризм
-* Шанс не получить урон
-* Шанс вернуть урон
-* Возвращаемый урон
-* Шанс нанести Х2 урон
-* Переносимый вес
-* Скорость атаки
-* Модификатор урона (всего урона)
-
-## Классы:
-* Хранитель
-* Берсерк
-* Рейнджер (на финальном этапе разработки)
-* Друид (бополнение к моду, т.к. будет использовать Eitr в качестве маны)
+###  [🏠To the main page](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
 
 
-## Хранитель
-![Хранитель](images/guardian.png)
+The mod adds 6 classes that increase certain characteristics of the player and the user interface of the class.
 
-## Берсерк
-![Берсерк](images/berserker.png)
+The higher the level, the higher the added characteristics.
 
-## Рейнджер
-![Рейнджер](images/ranger.png)
+### Types of added characteristics:
+* Health
+* Regeneration
+* Stamina Recovery
+* Armor
+* Protection (armor as a percentage)
+* Movement speed
+* Vampirism
+* Chance of not taking damage
+* Chance to return damage
+* Recoverable damage
+* Chance to deal X2 damage
+* Portable weight
+* Attack speed
+* Damage Modifier (total damage)
 
-## Друид
-![Друид](images/druid.png)
+## Classes:
+* Guardian
+* Berserk
+* Ranger (at the final stage of development)
+* Druid (in development)
+
+
+## Guardian
+![Guardian](images/guardian.png)
+
+## Berserk
+![Berserk](images/berserker.png)
+
+## Ranger
+![Ranger](images/ranger.png)
+
+## Druid
+![Druid](images/druid.png)
