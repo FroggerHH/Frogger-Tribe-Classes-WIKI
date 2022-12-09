@@ -1,12 +1,12 @@
-# О моде
+# About the mod
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
+###  [🏠To the main page](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
 
-Добро пожаловать на TribeClasses вики!
+Welcome to the TribeClasses wiki!
 
-Это мод от меня, то есть от Just a Frogger.
+This is a mod from me, that is, from Just a Frogger.
 
-Он добавляет в игру классы. Замечу, что это не тоже самое, что Magic Overflow.
-Я стараюсь сделать мой мод более балансный и вписывающимся в атмосферу Мира Вальхейма.
+It adds classes to the game. Note that this is not the same as Magic Overflow.
+I try to make my mod more balanced and fit into the atmosphere of the World of Walheim.
 
-[💡Особенности](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Features.md#особенности)
+[💡Features](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/Features.md#features)
