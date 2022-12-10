@@ -6,7 +6,7 @@
 
 
 blocks - List of MonstersInfo elements with information about the mob
-  * Name - The name (ID) of the mob. Exactly like on [вики](https://valheim.fandom.com/wiki/Skills). ![example](images/NotAModer.png)
+  * Name - The name (ID) of the mob. Exactly like on [wiki](https://valheim.fandom.com/wiki/Skills). ![example](images/NotAModer.png)
   * exp - The number of experience gained from this mob.
 
 
