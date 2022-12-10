@@ -1,47 +1,46 @@
-# Настройки классов
+# Class Settings
 
-###  [🏠На главную](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
+###  [🏠To the main page](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI#readme)
 
 ## ```com.FroggerTribeClasses.LevelTree.json``` 
-➡[Создаваемая конфигурация по умолчанию](config/com.FroggerTribeClasses.LevelTree.json)
+➡[The default configuration being created](config/com.FroggerTribeClasses.LevelTree.json)
 
 
-blocks Список элементов ClassInfo с информацией о классе
-  * className - Имя класса, не рекомендуется к изменению. Если хотите изменить отбражаемое имя класса, можете создать свой файл локализации и там переименовать его упоминания на свой вариант.
-  * levelTree-  Список элементов LevelInfo с информацией о конклетном уровне
-    * level - Уровень, для которого ниже указываются бонусы
-    * bonuses - Список характеристик, добавляемых данным уровнем к уже имеющимся
-      * enable - Позволяет включать/отключать применение данных бонусов к игроку без необходимость идаления из файла. Вскоре будет убрано за ненадобностью.
-      * Health - Количество добавляемого здоровья
-      * HealthRegeneration - Дополнительная регенерация здоровья
-      * Stamina Количество - добавляемой выносливости
-      * StaminaRegeneration - Дополнительная регенерация выносливости
-      * Armor - Количество добавляемой брони
-      * Defense - На сколько процентов будет увеличена броня. Броня, добавляемая вам классом в расчёте учитывается.
-      * MoveSpeed - На сколько процентов будет увеличена скорость передвижения персонажа.
-      * Vampirism - Сколько здоровия (кол-во) получит игрок при нанесении урона.
-      * ChanceToNotTakeDmg - Шанс (в %, конечно) не получить урон, когда вас атакуют.
-      * ChanceToReturnDmg - шанс (в %, конечно) нанести обидчику в ответ ReturnDmg урона, когда он вас атакуют.
-      * ReturnDmg - Собственно количество урона, которое будет нанесено в ответ.
-      * ChanceToX2Dmg - Шанс (в %, конечно), что вы нанесёте двойной урон при атаке.
-      * AttackSpeed - Скорость атаки увеличиваетс на X% (если -X%, то уменьшается).
-      * MaxCarryWeight - Дополнительный максимальный переносимый вес.
-      * DamageMod - *ВЕСЬ* урон увеличивается на X% (если -X%, то уменьшается).
-      * m_ModifySkill - Список элементов ModifySkill с информацией о увеличиваемом скиле. Примечание, работает только с ванильными скилами.
-        * skillName - Имя скила для увеличения. Точно как на [вики](https://valheim.fandom.com/wiki/Skills), но без пробелов.
-        * add - Сколько очков дубет добавлено
-      * unlockSuper - Будет ли на этом уровне разблокирована игроку аура класса
-  * levelExpModifier - Опыт для получения каждого последующего уровня, будет расчитан путём умноженея опыта, необходимого для получения предыдущего уровня, на это число. Вот здесь и влияет - First Level Exp из [основного конфиг файла](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MainConfig.md).
-  * everyLevelBonuses - Список характеристик, добавляемых каждым уровнем к уже имеющимся
-  * dualWieldExcludedTypesOfWeapons - Список типов оружия, которое не может использовать данный класс. Точно как на [вики](https://valheim.fandom.com/wiki/Weapons).
-  * dualWieldExclusionCertainItems - Список типов оружия, которое не может использовать данный класс. Индификаторы, например: AxeFlint, KnifeCopper, SwordIron, KnifeBlackMetal и т.д..
-  * super - Характеристики, бобавляемые игроку при активации ауры и отнимаемые, когда она перестаёт действовать.
-    * name - Имя ауры, не рекомендуется к изменению. Если хотите изменить отбражаемое имя ауры, можете создать свой файл локализации и там переименовать его упоминания на свой вариант.
-    * range - Радиус, находящиеся в котором члены группы тоже получат ауру при её активации.
-    * cooldown - Время между использованием ауры.
-    * time - Проболжительность действия ауры.
-    * bonuses - Добавляемы аурой характеристики.
+blocks List of ClassInfo elements with class information
+  * className - The name of the class, it is not recommended to change. If you want to change the display name of the class, you can create your own localization file and rename its mentions there to your own version.
+  * levelTree-  A list of Level Info elements with information about a specific level.
+    * level - The level for which bonuses are indicated below.
+    * bonuses - A list of characteristics added by this level to the existing ones.
+      * enable - Allows you to enable/disable the application of these bonuses to the player without the need to delete from the file. It will soon be removed as unnecessary.
+      * Health - The amount of health added.
+      * HealthRegeneration - Additional health regeneration.
+      * Stamina Количество - Additional stamina.
+      * StaminaRegeneration - Additional stamina regeneration.
+      * Armor - The number of added armor.
+      * Defense - How many percent of the armor will be increased. The armor added to you by the class is taken into account in the calculation.
+      * MoveSpeed - By how many percent will the character's movement speed be increased.
+      * Vampirism - How much health (number) the player will receive when dealing damage.
+      * ChanceToNotTakeDmg - Chance (in %, of course) not to take damage when you are attacked.
+      * ChanceToReturnDmg - The chance (in %, of course) to inflict the offender in return Return Dmg damage when he attacks you.
+      * ReturnDmg - The amount of damage that will be dealt in response.
+      * ChanceToX2Dmg - The chance (in %, of course) that you will deal double damage when attacking.
+      * AttackSpeed - Attack speed increases by X% (if -X%, then decreases).
+      * MaxCarryWeight - Additional maximum portable weight.
+      * DamageMod - *ALL* damage increases by X% (if -X%, then decreases).
+      * m_ModifySkill - A list of ModifySkill elements with information about the increased skill. Note, it only works with vanilla skills.
+        * skillName - The name of the skill to increase. Just like on [wiki](https://valheim.fandom.com/wiki/Skills), but without spaces.
+        * add - How many points will be added.
+      * unlockSuper - Will the class aura be unlocked for the player at this level.
+  * levelExpModifier - The experience required to obtain each subsequent level will be calculated by multiplying the experience required to obtain the previous level by this number. This is where the First Level Exp from the [main config file](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MainConfig.md) affects.
+  * everyLevelBonuses - A list of characteristics added by each level to the existing ones.
+  * dualWieldExcludedTypesOfWeapons - A list of weapon types that this class cannot use. Just like on [wiki](https://valheim.fandom.com/wiki/Weapons).
+  * dualWieldExclusionCertainItems - A list of weapon types that this class cannot use. Indicators, for example: AxeFlint, KnifeCopper, SwordIron, KnifeBlackMetal, etc..
+  * super - Characteristics added to the player when the aura is activated and taken away when it ceases to act.
+    * name - The name of the aura, it is not recommended to change. If you want to change the aura's display name, you can create your own localization file and rename its mentions there to your own version.
+    * range - The radius in which the members of the group will also receive an aura when it is activated.
+    * cooldown - The time between using the aura.
+    * time - The duration of the aura.
+    * bonuses - Characteristics added by the aura.
 
-
-* [📒Основной конфиг файл](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MainConfig.md#основной-конфиг-файл) 
-* [⚙️Настройки мобов](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md#настройки-мобов) 
+* [📒Main config file](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MainConfig.md#main-config-file) 
+* [⚙️Mob Settings](https://github.com/FroggerHH/Frogger-Tribe-Classes-WIKI/blob/main/MonstersSettings.md#mob-settings) 
