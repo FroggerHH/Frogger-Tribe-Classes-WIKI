@@ -5,6 +5,7 @@
 ## ```com.FroggerTribeClasses.LevelTree.json``` 
 ➡[The default configuration being created](config/com.FroggerTribeClasses.LevelTree.json)
 
+### Everywhere, when increasing or decreasing indicators, use a multiplier (number (for example 0.10 = 10%, 2 = 200%))). The exception is armor, health, stamina, mana.
 
 blocks List of ClassInfo elements with class information
   * className - The name of the class, it is not recommended to change. If you want to change the display name of the class, you can create your own localization file and rename its mentions there to your own version.
@@ -19,14 +20,14 @@ blocks List of ClassInfo elements with class information
       * Armor - The number of added armor.
       * Defense - How many percent of the armor will be increased. The armor added to you by the class is taken into account in the calculation.
       * MoveSpeed - By how many percent will the character's movement speed be increased.
-      * Vampirism - How much health (number) the player will receive when dealing damage.
-      * ChanceToNotTakeDmg - Chance (in %, of course) not to take damage when you are attacked.
+      * Vampirism - How much health (not as a percentage, but as a multiplier (number (for example 0.10 = 10%, 2 = 200%))) the player will receive when dealing damage, is deducted from the damage inflicted by him.
+      * ChanceToNotTakeDmg - Chance (Not percentages, but a multiplier (a number (for example 0.10 = 10%, 2 = 200%))) not to take damage when you are attacked.
       * ChanceToReturnDmg - The chance (in %, of course) to inflict the offender in return Return Dmg damage when he attacks you.
       * ReturnDmg - The amount of damage that will be dealt in response.
-      * ChanceToX2Dmg - The chance (in %, of course) that you will deal double damage when attacking.
-      * AttackSpeed - Attack speed increases by X% (if -X%, then decreases).
+      * ChanceToX2Dmg - The chance (Not percentages, but a multiplier (a number (for example 0.10 = 10%, 2 = 200%))) that you will deal double damage when attacking.
+      * AttackSpeed - Attack speed increases by X (if -X, then decreases).
       * MaxCarryWeight - Additional maximum portable weight.
-      * DamageMod - *ALL* damage increases by X% (if -X%, then decreases).
+      * DamageMod - *ALL* damage increases by X (if -X, then decreases).
       * m_ModifySkill - A list of ModifySkill elements with information about the increased skill. Note, it only works with vanilla skills.
         * skillName - The name of the skill to increase. Just like on [wiki](https://valheim.fandom.com/wiki/Skills), but without spaces.
         * add - How many points will be added.
