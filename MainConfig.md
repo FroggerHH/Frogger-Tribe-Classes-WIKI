@@ -10,7 +10,7 @@
 * Max Level - The maximum level, the player will no longer gain experience.
 * First Level Exp - Кthe number of experiments required to obtain the first level. Quite an important setting, because the number of experience for all subsequent levels is calculated relative to it.
 * Heal On Level Up - Will the player FULLY recover their health and stamina when getting a new level.
-* Group Exp Factor - How much experience (in %) will the group members receive when one of them gets experience.
+* Group Exp Factor - How much experience will the group members receive when one of them gets experience.
 * Open Menu Key - A button to open the class menu.
 * Close Menu Key - A button to close the class menu.
 * Далее идут настройки рун, рога и алтаря.
